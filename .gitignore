@@ -1,0 +1,19 @@
+### IGNORE FILES FROM GIT ###
+
+### MAC OSX FILES ###
+*._*
+*.DS_STORE
+
+### SUBLIME AND OTHER PROJECT FILES ###
+*.sublime-project
+*.sublime-workspace
+resources
+
+### NODE AND GULP FILES ###
+node_modules
+bower_components
+
+### MOCKUPS ETC. ###
+*.psd
+*.ai
+*.indd
